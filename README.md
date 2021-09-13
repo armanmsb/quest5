@@ -1,3 +1,4 @@
+LOCAL
 # quest5
 Zeile1
 Zeile2
